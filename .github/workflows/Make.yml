@@ -18,7 +18,7 @@ on:
       DEVICE_URL:
         description: 'DEVICE_URL'
         required: true
-        default: 'https://github.com/123qiu-jie/android_device_asus_ASUS_Z012Dytas'
+        default: 'https://github.com/123qiu-jie/android_device_asus_ASUS_Z012D'
       DEVICE_BRANCH:
         description: 'DEVICE_BRANCH'
         required: true
